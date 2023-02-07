@@ -1,0 +1,65 @@
+.card_size{
+    margin:0 15px;
+    width: 213px;
+}
+.btn{
+    padding: 5px 0;
+}
+button.btn{
+    padding: 6px;
+    width: 100%;
+}
+
+li.list-group-item{
+    padding:0;
+}
+div.card.p-3{
+    width: 220px;
+}
+.badge{
+  height: 25px;
+  padding-top: 7px;
+}
+.card.p-3.border.rounded.active{
+    background-color: aliceblue;
+}
+.card.p-3.border.rounded.passive{
+    background: #fffcfd;
+}
+button.btn.passive{
+    background-color:#fffcfd;
+}
+button.btn.active{
+    border: 0;
+    background-color: aliceblue;
+}
+.badge_active{
+    background-color:rgb(183, 223, 255);
+}
+
+.badge_passive{
+    background-color: #f6d5df;
+}
+.btn.card-header.fluid.passive{
+    background-color: #fffcfd;
+}
+.btn.card-header.fluid.active{
+    background-color: aliceblue;
+}
+.btn.card-header.fluid.active{
+    border: 0;
+    border-bottom: 1px solid rgba(0,0,0,0.175);
+}
+span.cel{
+    width: 40px;
+    height: 30px;
+    padding: 6px;
+    text-align: center;
+    font-size: 15px;
+}
+span{
+    padding: 6px;
+}
+span.badge{
+    height: 28px;
+}
